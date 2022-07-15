@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Moh4mEdNo0r
 - 👀 I’m interested in AI and DATA
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ...
 
